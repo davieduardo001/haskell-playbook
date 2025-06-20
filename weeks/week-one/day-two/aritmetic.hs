@@ -37,3 +37,8 @@ sum a b = a + b
 fee salary = salary * tax
     where
         tax = if salary > 5000 then 0.2 else 0.1
+
+{-
+  This is a multi-line comment.
+  It can span several lines.
+-}
