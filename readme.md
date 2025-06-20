@@ -6,15 +6,15 @@
 
 > 🔍 Goal: Understand Haskell syntax, types, functions, and REPL usage.
 
-| Day | Focus                | Task                                                   |
-| --- | -------------------- | ------------------------------------------------------ |
-| 1   | ✅ Setup              | Install GHCup, run `ghci`, test `hello.hs`             |
-| 2   | 🧠 Expressions       | Arithmetic, `let`, `where`, functions                  |
-| 3   | 🧩 Types             | Learn `Int`, `Float`, `Char`, `Bool`, type annotations |
-| 4   | 🔁 Pattern Matching  | Define `factorial`, `fibonacci`, etc.                  |
-| 5   | 🧱 Recursion         | Sum a list, reverse a list recursively                 |
-| 6   | 🧮 Lists             | `map`, `filter`, `foldr`, list comprehensions          |
-| 7   | 🧘 Review & Practice | Write a CLI calculator or temperature converter        |
+| Day | Status  | Focus                | Task                                                   |
+| --- |   ---   | -------------------- | ------------------------------------------------------ |
+| 1   |    OK   | ✅ Setup              | Install GHCup, run `ghci`, test `hello.hs`             |
+| 2   |    OK   | 🧠 Expressions       | Arithmetic, `let`, `where`, functions                  |
+| 3   |         | 🧩 Types             | Learn `Int`, `Float`, `Char`, `Bool`, type annotations |
+| 4   |         | 🔁 Pattern Matching  | Define `factorial`, `fibonacci`, etc.                  |
+| 5   |         | 🧱 Recursion         | Sum a list, reverse a list recursively                 |
+| 6   |         | 🧮 Lists             | `map`, `filter`, `foldr`, list comprehensions          |
+| 7   |         | 🧘 Review & Practice | Write a CLI calculator or temperature converter        |
 
 📚 Resource: [Learn You a Haskell – Ch. 1–4](http://learnyouahaskell.com/chapters)
 
