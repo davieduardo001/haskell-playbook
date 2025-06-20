@@ -19,9 +19,21 @@ main = do
     let result_of_hip = hip 4 2
     putStrLn ("hipotenusa = " ++ show result_of_hip)
 
+    -- using funcions
+
+
 -- using where to declare things 'before' the funcion
 hip a b = sqrt (sqrtA + sqrtB)
     where
         sqrtA = a^2
         sqrtB = b^2
     -- this is a alternative for this -> hip a b = sqrt (a^2 + b^2)
+
+-- double func -> funcions are like this: funcName param1 param2 param3 = expression
+is_pair x = x `mod` 2 == 0
+double x = x * 2
+sum a b = a + b
+
+fee salary = salary * tax
+    where
+        tax = if salary > 5000 then 0.2 else 0.1
