@@ -10,7 +10,7 @@
 | --- |   ---   | -------------------- | ------------------------------------------------------ |
 | 1   |    OK   | ✅ Setup              | Install GHCup, run `ghci`, test `hello.hs`             |
 | 2   |    OK   | 🧠 Expressions       | Arithmetic, `let`, `where`, functions                  |
-| 3   |         | 🧩 Types             | Learn `Int`, `Float`, `Char`, `Bool`, type annotations |
+| 3   |    OK   | 🧩 Types             | Learn `Int`, `Float`, `Char`, `Bool`, type annotations |
 | 4   |         | 🔁 Pattern Matching  | Define `factorial`, `fibonacci`, etc.                  |
 | 5   |         | 🧱 Recursion         | Sum a list, reverse a list recursively                 |
 | 6   |         | 🧮 Lists             | `map`, `filter`, `foldr`, list comprehensions          |
